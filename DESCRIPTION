@@ -1,0 +1,11 @@
+Package: mypokergames
+Type: Package
+Title: Poker game
+Version: 1.0
+Date: 2021-06-19
+Author: Chen Zi-Lin
+Maintainer: Chen Zi-Lin <julietp61103@gmail.com>
+Description: Games ninenine and twentyone in it
+License: What license is it under?
+RoxygenNote: 7.1.1
+Encoding: UTF-8
